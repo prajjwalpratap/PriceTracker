@@ -16,3 +16,4 @@ Developed using Next.js and Bright Data's webunlocker, this e-commerce product s
 
 and many more, including code architecture and reusability
 
+live project -https://pricewise-jsm.vercel.app/
